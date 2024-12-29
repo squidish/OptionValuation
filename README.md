@@ -1,2 +1,2 @@
 # OptionValuation
-Experimental pricing agent
+Experimental pricing agent. This uses stochastic processes.
